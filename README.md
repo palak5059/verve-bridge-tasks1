@@ -53,8 +53,7 @@ Key Insights an conclusion:
 Results:
 
     The regression model achieved an R² score of approximately 0.92, meaning about 92% of the variance in draft pick positions.  This indicates the players have better success rate as 
-    for 
-    the better performance from the players in regards to their combine measurements.
+    for the better performance from the players in regards to their combine measurements.
 
 
 
